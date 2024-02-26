@@ -1,4 +1,4 @@
-![localhost_3000_listings_65dbdcb97facd1d589df1bb7](https://github.com/idboussadel/cozyhome/assets/113947156/a7761e30-f8b3-4ef8-845d-a4f537a8719d)# CozyHome
+# CozyHome 
 Full Stack Airbnb Clone with Next.js 14 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 
 
 # Demo Images :
