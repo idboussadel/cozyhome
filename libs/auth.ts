@@ -60,5 +60,3 @@ export const authOptions: AuthOptions = {
   },
   secret: process.env.AUTH_SECRET,
 };
-
-export default authOptions;
