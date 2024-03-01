@@ -1,6 +1,16 @@
 # CozyHome 
 Full Stack Airbnb Clone with Next.js 14 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 
 
+## Tech used :
+ -- Nextjs
+ -- React
+ -- MongoDB 
+ -- Tailwind 
+ -- TypeScript
+ -- Prisma
+ -- NextAuth 
+ -- NodeJs
+
 # Demo Images :
 ## home page:
 ![home page](https://github.com/idboussadel/cozyhome/assets/113947156/71de4e7d-1c76-4519-9db2-8fd39e203057)
